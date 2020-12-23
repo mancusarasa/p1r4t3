@@ -10,5 +10,7 @@ class Config(object):
     def get_api_key(self):
         return self.config['bot']['key']
 
+    def get_results_limit(self):
+        return int(self.config['search']['results_limit'])
 
 config = Config()
