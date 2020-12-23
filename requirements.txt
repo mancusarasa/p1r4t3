@@ -1,1 +1,8 @@
-pyTelegramBotAPI
+certifi==2020.12.5
+chardet==4.0.0
+idna==2.10
+lxml==4.6.2
+pyTelegramBotAPI==3.7.4
+requests==2.25.1
+tpblite==0.7.0
+urllib3==1.26.2
